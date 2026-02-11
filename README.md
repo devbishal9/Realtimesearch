@@ -57,7 +57,7 @@ GroqAPIKey=YOUR_GROQ_API_KEY
 SERP_API_KEY=YOUR_SERPAPI_KEY
 ```
 
-#📦 Installation
+# 📦 Installation
 Install dependencies
 ```
 pip install groq python-dotenv requests google-search-results
